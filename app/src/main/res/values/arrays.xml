@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="holat_spinner" >
+
+        <item> Yangi</item>
+        <item> BAjarilmoqda</item>
+        <item> Tugallonmoqda</item>
+
+
+
+    </string-array>
+
+</resources>
